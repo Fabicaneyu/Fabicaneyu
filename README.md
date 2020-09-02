@@ -27,3 +27,14 @@ Here are some ideas to get you started:
 <br/>
 My name is Fabíola, but everyone calls me Fabí. Desde niña crecí en dos idiomas, en portugués y español, re-gracias a mis padres, soy dichosamente hija de inmigrantes Bolivianos, y todos los dias estudio y practico ingles.  Me formei como farmacêutica em 2010 e trabalhar na área da saúde me proporcionou dentre tantas hard e soft skills, desenvolver a comunicação e a empatia, e são essas Todas características que carrego para o universo da Tecnologia/Desenvolvimento.     
 
+<br/>.📚 Technologist in Systems Analysis and Development.
+<br/> .👩‍🎓 Bachelor in Information System.
+<br/> .👩‍🎓 Master in Software Engineering.
+<br/>.🏢 Im love Hackathons.
+<br/>.💙 In love with Java.
+<br/>.🌱 I’m currently learning more Spring Boot, TDD, DevOps and Agile methodologies.
+<br/>.💻  Techs: Java, Python, C, C++, JavaScript, Angular, React and NodeJS.
+<br/>.🌍 Languages: English and Spanish.
+<br/>.😄 Also Lawyer.
+<br/>.💬 Ask me about: tech, law, languages from different countries and foods.
+<br/> .⚡ Curiosity: I love to travel with my son.
