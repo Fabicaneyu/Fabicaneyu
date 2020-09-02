@@ -3,6 +3,8 @@
 <!--
 **Fabicaneyu/Fabicaneyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+ [<img src="https://drive.google.com/file/d/1CKzyia3mXXhgLxZCrYIVqU2CjAeEwA34/view?usp=sharing" width=115 > <br> <sub> Fabí Canedo </sub>](https://www.linkedin.com/in/fabicanedo/) 
+ 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
