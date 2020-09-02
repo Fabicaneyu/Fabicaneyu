@@ -1,4 +1,4 @@
-### Hi, Hola, Oi 👋
+### Hi, Hola, Oi 👋 Welcome, Bienvenido, Bem-vindes ao meu perfil !
 
 <!--
 **Fabicaneyu/Fabicaneyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Fabí Canedo Yugar :woman_technologist:
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Fabicaneyu)](https://github.com/Fabicaneyu)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabicanedo/)](https://www.linkedin.com/in/fabicanedo/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabicaneyu@gmail.com)](mailto:fabicaneyu@gmail.com/)
+<br/>
