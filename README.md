@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabicanedo/)](https://www.linkedin.com/in/fabicanedo/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabicaneyu@gmail.com)](mailto:fabicaneyu@gmail.com/)
 <br/>
-## Conozcámonos! Boa se conhecer! Let's meet ! 
+## Conozcámonos! Bora se conhecer! Let's meet ! 
 <br/>
 My name is Fabíola, but everyone calls me Fabí. Desde niña crecí en dos idiomas, en portugués y español, re-gracias a mis padres, soy dichosamente hija de inmigrantes Bolivianos, y todos los dias estudio y practico ingles.  Me formei como farmacêutica em 2010 e trabalhar na área da saúde me proporcionou dentre tantas hard e soft skills, desenvolver a comunicação e a empatia, e são essas Todas características que carrego para o universo da Tecnologia/Desenvolvimento.     
 
