@@ -33,3 +33,7 @@ My name is Fabíola, but everyone calls me Fabí. Desde niña crecí en dos idio
 <br/>.🌍  Languages: English, Spanish and Portguese.
 <br/>.💬  Ask me about: tech, women in tech, TEDTalks, Podcasts, lifestyle in different countries(I travel to Bolívia, Perú, México, Colômbia)
 <br/> .⚡ Curiosity: I work in a Hostel in Cancún (MX) with the Worldpackers.
+</br>
+<p align="center"> 
+ <a><img src="https://github-readme-stats.vercel.app/api?username=fabicaneyu&show_icons=true&theme=graywhite" /></a>
+</p> 
